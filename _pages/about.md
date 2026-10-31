@@ -37,7 +37,7 @@ My research focuses on natural language processing and machine learning.
 5. [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models]({{ "/publications/c-eval/" | relative_url }}) (NeurIPS 2023). **Co-author.** Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
 6. [Composing Parameter-Efficient Modules with Arithmetic Operations]({{ "/publications/composing-parameter-efficient-modules/" | relative_url }}) (NeurIPS 2023). **Co-author.** Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
 
-## Skills
+## Skills and Research Interests
 
 - Natural Language Processing
 - Machine Learning
